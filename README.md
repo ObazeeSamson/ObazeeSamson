@@ -1,0 +1,17 @@
+## Hi there 👋 I'm Sam
+I’m a data analyst with a Microsoft PL-300 certification, skilled in Power BI, Excel and SQL.
+
+## Tools I work with
+- Microsoft Excel
+- Microsoft Power BI
+- SQL
+ ## SKILLS
+- Data Cleaning
+- Data Visualisation
+- Data Modeling
+- Critical Thinking
+- Problem Solving
+## My Projects
+[Healthcare-Dashboard]()
+## Let's Connect
+[Linkedin](www.linkedin.com/in/abiemwense-obazee-sunday-46a557296)
