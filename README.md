@@ -12,6 +12,6 @@ I’m a data analyst with a Microsoft PL-300 certification, skilled in Power BI,
 - Critical Thinking
 - Problem Solving
 ## My Projects
-[Healthcare-Dashboard]()
+[Healthcare-Dashboard](https://github.com/ObazeeSamson/healthcare-analytics-dashboard)
 ## Let's Connect
 [Linkedin](www.linkedin.com/in/abiemwense-obazee-sunday-46a557296)
