@@ -15,7 +15,7 @@ I’m a data analyst with a Microsoft PL-300 certification, skilled in Power BI,
 - [Healthcare-Dashboard](https://github.com/ObazeeSamson/healthcare-analytics-dashboard) 
 - [Excel Sales DashBoard](https://github.com/ObazeeSamson/Excel-Sales-Dashoard/tree/main)
 ## Certificates
-[Microsoft Certified: Power Bi Data Analyst Associate]()
+[Microsoft Certified: Power Bi Data Analyst Associate](Certificate.png)
 
 ## Let's Connect
 [Linkedin](www.linkedin.com/in/abiemwense-obazee-sunday-46a557296)
