@@ -12,7 +12,8 @@ I’m a data analyst with a Microsoft PL-300 certification, skilled in Power BI,
 - Critical Thinking
 - Problem Solving
 ## My Projects
-- [Healthcare-Dashboard](https://github.com/ObazeeSamson/healthcare-analytics-dashboard) 
+- [Healthcare-Dashboard](https://github.com/ObazeeSamson/healthcare-analytics-dashboard)
+- - [Supply-Chain-Analytics](https://github.com/ObazeeSamson/healthcare-analytics-dashboard) 
 - [Excel Sales DashBoard](https://github.com/ObazeeSamson/Excel-Sales-Dashoard/tree/main)
 ## Certificates
 * [Microsoft Certified: Power Bi Data Analyst Associate](Certificate.png)
